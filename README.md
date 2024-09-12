@@ -10,13 +10,11 @@ NumPy: Operações numéricas e matriciais.
 
 Matplotlib e Seaborn: Visualização de dados.
 
-Scikit-learn: Machine learning.
-
 Tópicos abordados:
 
 Análise exploratória de dados
 
-Modelagem preditiva
+Limpeza de dados
 
 Visualização de dados
 
