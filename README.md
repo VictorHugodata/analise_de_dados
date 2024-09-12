@@ -5,12 +5,19 @@ O projeto explora as principais bibliotecas e técnicas utilizadas na manipulaç
 Python para análise de dados, como:
 
 Pandas: Manipulação e limpeza de dados.
+
 NumPy: Operações numéricas e matriciais.
+
 Matplotlib e Seaborn: Visualização de dados.
+
 Scikit-learn: Machine learning.
+
 Tópicos abordados:
 
 Análise exploratória de dados
+
 Modelagem preditiva
+
 Visualização de dados
+
 Tratamento de dados
